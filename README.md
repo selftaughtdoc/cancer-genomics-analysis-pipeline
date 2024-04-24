@@ -1,40 +1,10 @@
-### Cancer Genomics Analysis Pipeline
+### Sample Data for Cancer Genomics Analysis Pipeline
 
 #### Description:
-A pipeline for analyzing cancer genomic data to identify driver mutations.
+Sample data for the Cancer Genomics Analysis Pipeline.
 
-#### Languages/Tools:
-- R
-- BASH
-- MuTect
-- GISTIC
-- cBioPortal
+#### Instructions:
+Download the data files from the links provided above and place them in the corresponding directories in the pipeline.
 
-#### Functionality:
-- Variant calling
-- Copy number variation (CNV) analysis
-- Oncoprint visualization
-- Survival analysis
-
-### Repository Structure:
-|-- README.md
-|-- data
-| |-- sample_data
-| |-- README.md
-| |-- variant_calls.vcf
-| |-- cnv_data.txt
-| |-- clinical_data.csv
-| |-- survival_data.csv
-|-- scripts
-| |-- variant_calling.R
-| |-- cnv_analysis.R
-| |-- oncoprint_visualization.R
-| |-- survival_analysis.R
-| |-- run_pipeline.sh
-|-- results
-| |-- variant_calls
-| |-- cnv_analysis
-| |-- oncoprint_visualization
-| |-- survival_analysis
-|-- requirements.txt
-|-- LICENSE
+#### License
+This sample data is licensed under the terms of the [MIT license](../../LICENSE).
