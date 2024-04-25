@@ -6,9 +6,7 @@ A pipeline for analyzing cancer genomic data to identify driver mutations.
 #### Languages/Tools:
 - R
 - BASH
-- MuTect
-- GISTIC
-- cBioPortal
+
 
 #### Functionality:
 - Variant calling
